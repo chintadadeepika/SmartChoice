@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "title": "winter jacket",
+        "trendTitle": "Stylish winter jacket",
+        "description": "Standard length winter jacket at reasonable price",
+        "price": "₹700",
+        "image": "./assets/images/product1.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 2,
+        "title": "Women winter wear",
+        "trendTitle": "Ladies winter wear party top",
+        "description": "This is a winter wear top made up of wool which is as comfortable as to wear for parties",
+        "price": "₹440",
+        "image": "./assets/images/party wear.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 3,
+        "title": "black hoodie",
+        "trendTitle": " trending black hoodie",
+        "description": "This is a trending hoodie.",
+        "price": "₹375",
+        "image": "./assets/images/product3.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 4,
+        "title": "scarf and coat",
+        "trendTitle": "scarf and coat",
+        "description": "This is a winter combo at reasonable offer",
+        "price": "₹799",
+        "image": "./assets/images/product4.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 5,
+        "title": "white cap",
+        "trendTitle": "Trendy cap",
+        "description": "Get white caps for men online",
+        "price": "₹250",
+        "image": "./assets/images/product5.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+        
+    },
+    {
+        "id": 6,
+        "title": "belt for men",
+        "trendTitle": "Leather belt for men",
+        "description": "Leather belt for men",
+        "price": "₹200",
+        "image": "./assets/images/leather belt.jpeg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 7,
+        "title": "black oversized t-shirt",
+        "trendTitle": "Oversized T-shirt",
+        "description": "Oversized T-shirt",
+        "price": "₹300",
+        "image": "./assets/images/product7.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 8,
+        "title": "ladies short kurti",
+        "trendTitle": "ladies short kurti",
+        "description": "ladies short kurti",
+        "price": "₹560",
+        "image": "./assets/images/ladies kurti.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 9,
+        "title": "light yellow hoodie",
+        "trendTitle": "best trending hoodie",
+        "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+        "price": "₹650",
+        "image": "./assets/images/product9.png",
+        "isNew": false,
+        "isTrending": true,
+        "category": "men"
+    },
+    {
+        "id": 10,
+        "title": "formals for women",
+        "trendTitle": "Formals for women",
+        "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+        "price": "₹2,200",
+        "image": "./assets/images/blue formals women.jpeg",
+        "isNew": false,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 11,
+        "title": "formals for men",
+        "trendTitle": "formals for men",
+        "description": "formals for men",
+        "price": "₹2,200",
+        "image": "./assets/images/men formals.jpg",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 12,
+        "title": "black jacket",
+        "trendTitle": "unique awesome jacket",
+        "description": "Get high quality black jacket at very reasonable price with the finest quality",
+        "price": "₹499",
+        "image": "./assets/images/product12.png",
+        "image2": "./assets/images/product12-2.png",
+        "isNew": true,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 13,
+        "title": "women coat and pants",
+        "trendTitle": "women coat and pantsr",
+        "description": "Complete outfit at very reasonable price",
+        "price": "₹1499",
+        "image": "./assets/images/product13.png",
+        "image2": "./assets/images/product13-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 14,
+        "title": "fully jeans outfit",
+        "trendTitle": "fully jeans outfit",
+        "description": "Complete outfit at very reasonable price",
+        "price": "₹1500",
+        "image": "./assets/images/product14.png",
+        "image2": "./assets/images/product14-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    }
+   
+]
